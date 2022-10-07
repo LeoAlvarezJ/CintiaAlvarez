@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @CintiaAlvarez / Leo
-- 👀 I’m a fashion designer interested in music & kickboxing
+- 👋 Hi, I’m Leo
 - 🌱 I’m currently learning fullstack dev
 - 💞️ I’m looking to collaborate on fun projects!
 
